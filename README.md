@@ -8,7 +8,7 @@ This Smart Contact Manager Project is a C++ based project that handles contact d
 - View contacts (by name, tag, first/last added)
 - Update existing contacts(multiple at a time, if needed)
 - Delete contacts(multiple at a time, if needed)
-- Sort contacts by name or number
+- Sort contacts by name or tags
 - Export contacts to a text file
 - View contact statistics
   <br>
